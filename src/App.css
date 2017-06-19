@@ -1,0 +1,21 @@
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.edit{
+    background-color: dodgerblue;
+    font-family: fantasy;
+}
+
+.remove{
+    background-color: crimson;
+}
+.save{
+    background-color: forestgreen;
+}
+.addComment{
+    background-color: aquamarine;
+}
